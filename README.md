@@ -8,7 +8,6 @@
 <ul>
 <li>Aqui foi criada a aplicação de monitoramento de RAM para PC utilizando-se o módulo OS;</li>
 <li>A aplicação foi unida ao servidor viabilizando a vizualização via navegador</li>
-<li></li>
 </ul>
 <h4>Referências:</h4>
 <ul>
